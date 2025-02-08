@@ -11,6 +11,10 @@
 - Firbase Setup
 - Deploying our app to Production 
 - Create Sign up user account in Firebase
+- Implemented Sign in user api
+- Created Redux Store with User Slice
+- Implement Sign out and redirect to home login page
+- Update Profile with display name and photo URL
 
 
 # Features 
