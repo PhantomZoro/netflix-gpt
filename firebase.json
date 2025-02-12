@@ -5,6 +5,23 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
+    ],
+    "headers": [
+      {
+        "source": "google9d6b758c89c5331a.html",
+        "headers": [
+          {
+            "key": "Content-Type",
+            "value": "text/html"
+          }
+        ]
+      }
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
     ]
   }
 }
