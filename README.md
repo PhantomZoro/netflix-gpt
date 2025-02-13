@@ -28,7 +28,12 @@
 - Updated the store with movies data and trailer data
 - Embedded the youtube video using iframe and made it autoplay and mute
 - Added tailwind CSS to make it look awesome, the main container
-
+- Built secondary component container
+- Built Movies list 
+- Built Movie Card
+- TMDB Image CDN URL 
+- Made the Browse page amazing with Tailwind CSS
+- usePopularMovies Custom hook 
 
 # Features 
 
